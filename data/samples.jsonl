@@ -1,0 +1,12 @@
+{"id": "cap-fr", "expected": "Paris", "samples": ["Paris", "Paris", "Paris.", "Paris", "Paris"]}
+{"id": "cap-au", "expected": "Canberra", "samples": ["Sydney", "Canberra", "Sydney", "Canberra", "Sydney"]}
+{"id": "cap-ca", "expected": "Ottawa", "samples": ["Ottawa", "Ottawa", "Toronto", "Ottawa", "Ottawa"]}
+{"id": "sum-17-25", "expected": "42", "samples": ["42", "42", "42", "42", "42"]}
+{"id": "sum-48-37", "expected": "85", "samples": ["85", "75", "85", "95", "85"]}
+{"id": "prod-12-12", "expected": "144", "samples": ["144", "124", "144", "144", "148"]}
+{"id": "sqrt-81", "expected": "9", "samples": ["9", "9", "9", "9", "9"]}
+{"id": "elem-au", "expected": "Gold", "samples": ["gold", "Silver", "Gold", "gold", "Gold"]}
+{"id": "lang-br", "expected": "Portuguese", "samples": ["Spanish", "Portuguese", "Spanish", "Spanish", "Portuguese"]}
+{"id": "year-moon", "expected": "1969", "samples": ["1969", "1969", "1968", "1969", "1969"]}
+{"id": "http-teapot", "expected": "418", "samples": ["418", "404", "200", "500", "418"]}
+{"id": "sql-count", "expected": "COUNT", "samples": ["Count", "COUNT", "count(*)", "COUNT", "count"]}
